@@ -1,4 +1,4 @@
-# Bonjour 👋, je suis Mike!
+# Bonjour 👋, je m'appelle Mikaël ! Mais tu peux m'appeler Mike.
 
 ### Un développeur web et mobile en devenir, passionné par la tech et l'art de coder 🚀
 
@@ -6,13 +6,13 @@
   <img src="https://media.giphy.com/media/2IudUHdI075HL02Pkk/giphy.gif" width="300"/>
 </div>
 
-_Évoluant du rôle de social media manager à celui de développeur front-end (et peut-être back-end), je suis actuellement en formation et serai prêt à plonger officiellement dans le monde du développement à la fin de l'année. Motivé et curieux, je suis enthousiaste à l'idée de construire et d'apprendre chaque jour._
+_*Retournant à mes premières passions en ingénierie informatique après avoir exploré le monde du social media management, je suis déjà pleinement engagé et enthousiaste dans mon parcours pour devenir développeur front-end (et éventuellement back-end). Actuellement en formation, je suis avide d'apprendre et de coder chaque jour, et je serai ouvert aux nouvelles opportunités dans le domaine du développement dès la fin de l'année.*_
 
 - 🌍 **Localisation :** France 🇫🇷 (mais rêve de coder sur chaque continent!)
 - 🌱 **J'apprends :** HTML, CSS / Sass, Javascript, React, Swift, Node.JS
 - 📝 **Blogueur :** Découvrez mon univers sur [Mike Pixel Dev](https://mikepixel.dev)
 - 📫 **Pour me contacter :** [hello@mikepixel.dev](mailto:hello@mikepixel.dev)
-- ⚡ **Fait amusant :** Geek dans l'âme, amoureux des comics, anime et voyages, toujours prêt pour une nouvelle aventure avec mon appareil photo (en train, ou en codant)!
+- ⚡ **Fait amusant :** Geek dans l'âme, amoureux des comics, anime et voyages, toujours prêt pour une nouvelle aventure avec mon appareil photo (en train)!
 
 ### Connectons-Nous :
 
