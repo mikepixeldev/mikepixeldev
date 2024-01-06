@@ -6,7 +6,7 @@
   <img src="https://media.giphy.com/media/2IudUHdI075HL02Pkk/giphy.gif" width="300"/>
 </div>
 
-_*Retournant à mes premières passions en ingénierie informatique après avoir exploré le monde du social media management, je suis déjà pleinement engagé et enthousiaste dans mon parcours pour devenir développeur front-end (et éventuellement back-end). Actuellement en formation, je suis avide d'apprendre et de coder chaque jour, et je serai ouvert aux nouvelles opportunités dans le domaine du développement dès la fin de l'année.*_
+_Retournant à mes premières passions en ingénierie informatique après avoir exploré le monde du social media management, je suis déjà pleinement engagé et enthousiaste dans mon parcours pour devenir développeur front-end (et éventuellement back-end). Actuellement en formation, je suis avide d'apprendre et de coder chaque jour, et je serai ouvert aux nouvelles opportunités dans le domaine du développement dès la fin de l'année._
 
 - 🌍 **Localisation :** France 🇫🇷 (mais rêve de coder sur chaque continent!)
 - 🌱 **J'apprends :** HTML, CSS / Sass, Javascript, React, Swift, Node.JS
