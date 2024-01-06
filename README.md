@@ -3,7 +3,7 @@
 ### Un développeur web et mobile en devenir, passionné par la tech et l'art de coder 🚀
 
 <div align="center">
-  <img src="https://media.giphy.com/media/2IudUHdI075HL02Pkk/giphy.gif" width="100"/>
+  <img src="https://media.giphy.com/media/2IudUHdI075HL02Pkk/giphy.gif" width="250"/>
 </div>
 
 _Évoluant du rôle de social media manager à celui de développeur front-end (et peut-être back-end), je suis actuellement en formation et serai prêt à plonger officiellement dans le monde du développement à la fin de l'année. Motivé et curieux, je suis excité à l'idée de construire et d'apprendre chaque jour._
