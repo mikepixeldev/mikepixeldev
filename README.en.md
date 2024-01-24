@@ -37,8 +37,6 @@ _Returning to my early passions in computer engineering after exploring the worl
 [<img align="left" alt="MySQL" width="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" />](https://www.mysql.com/)
 [<img align="left" alt="Figma" width="40px" src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" />](https://www.figma.com/)
 [<img align="left" alt="Photoshop" width="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" />](https://www.photoshop.com/en)
-[<img align="left" alt="Illustrator" width="40px" src="https://www.vectorlogo.zone/log
-
-os/adobe_illustrator/adobe_illustrator-icon.svg" />](https://www.adobe.com/in/products/illustrator.html)
+[<img align="left" alt="Illustrator" width="40px" src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" />](https://www.adobe.com/in/products/illustrator.html)
 
 <br /><br />
