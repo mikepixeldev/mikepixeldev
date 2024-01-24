@@ -14,7 +14,7 @@ _Retournant à mes premières passions en ingénierie informatique après avoir 
 - 🌱 **J'apprends :** HTML, CSS / Sass, Javascript, React, Swift, Node.JS
 - 📝 **Blogueur :** Découvrez mon univers sur [Mike Pixel Dev](https://mikepixel.dev)
 - 📫 **Pour me contacter :** [hello@mikepixel.dev](mailto:hello@mikepixel.dev)
-- ⚡ **Fait amusant :** Geek dans l'âme, amoureux des comics, anime et voyages, toujours prêt pour une nouvelle aventure avec mon appareil photo (en train)!
+- ⚡ **Fait amusant :** Geek dans l'âme, amoureux des comics, anime et voyages, toujours prêt pour une nouvelle aventure avec mon appareil photo !
 
 ### Connectons-Nous :
 

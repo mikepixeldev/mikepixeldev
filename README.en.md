@@ -14,7 +14,7 @@ _Returning to my early passions in computer engineering after exploring the worl
 - 🌱 **Learning:** HTML, CSS / Sass, Javascript, React, Swift, Node.JS
 - 📝 **Blogger:** Explore my world on [Mike Pixel Dev](https://mikepixel.dev)
 - 📫 **To contact me:** [hello@mikepixel.dev](mailto:hello@mikepixel.dev)
-- ⚡ **Fun fact:** A geek at heart, lover of comics, anime, and travel, always ready for a new adventure with my camera (on trains)!
+- ⚡ **Fun fact:** A geek at heart, lover of comics, anime, and travel, always ready for a new adventure with my camera!
 
 ### Let's Connect:
 
