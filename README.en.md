@@ -1,30 +1,30 @@
-# Bonjour 👋, je m'appelle Mikaël ! Mais tu peux m'appeler Mike.
+# Hello 👋, I'm Mikaël! But you can call me Mike.
 
-### Un développeur web et mobile en devenir, passionné par la tech et l'art de coder 🚀
+### An aspiring web and mobile developer, passionate about tech and the art of coding 🚀
 
-_Read this in other languages: [English](README.en.md)._
+_Read this in other languages: [French](README.md)._
 
 <div align="center">
   <img src="https://media.giphy.com/media/2IudUHdI075HL02Pkk/giphy.gif" width="300"/>
 </div>
 
-_Retournant à mes premières passions en ingénierie informatique après avoir exploré le monde du social media management, je suis déjà pleinement engagé et enthousiaste dans mon parcours pour devenir développeur front-end (et éventuellement back-end). Actuellement en formation, je suis avide d'apprendre et de coder chaque jour, et je serai ouvert aux nouvelles opportunités dans le domaine du développement dès la fin de l'année._
+_Returning to my early passions in computer engineering after exploring the world of social media management, I'm fully engaged and excited in my journey to become a front-end developer (and eventually back-end). Currently in training, I'm eager to learn and code every day, and I'll be open to new opportunities in the development field by the end of the year._
 
-- 🌍 **Localisation :** France 🇫🇷 (mais rêve de coder sur chaque continent!)
-- 🌱 **J'apprends :** HTML, CSS / Sass, Javascript, React, Swift, Node.JS
-- 📝 **Blogueur :** Découvrez mon univers sur [Mike Pixel Dev](https://mikepixel.dev)
-- 📫 **Pour me contacter :** [hello@mikepixel.dev](mailto:hello@mikepixel.dev)
-- ⚡ **Fait amusant :** Geek dans l'âme, amoureux des comics, anime et voyages, toujours prêt pour une nouvelle aventure avec mon appareil photo (en train)!
+- 🌍 **Location:** France 🇫🇷 (but dreams of coding on every continent!)
+- 🌱 **Learning:** HTML, CSS / Sass, Javascript, React, Swift, Node.JS
+- 📝 **Blogger:** Explore my world on [Mike Pixel Dev](https://mikepixel.dev)
+- 📫 **To contact me:** [hello@mikepixel.dev](mailto:hello@mikepixel.dev)
+- ⚡ **Fun fact:** A geek at heart, lover of comics, anime, and travel, always ready for a new adventure with my camera (on trains)!
 
-### Connectons-Nous :
+### Let's Connect:
 
-[<img align="left" alt="mikepixel.dev sur Threads" width="40px" src="https://github.com/mikepixeldev/mikepixeldev/blob/main/img/threads-logo-black-01.png" />](https://www.threads.net/@mikepixel.dev)
-[<img align="left" alt="mikepixel.dev sur Instagram" width="40px" src="https://github.com/mikepixeldev/mikepixeldev/blob/main/img/Instagram_Glyph_Gradient.png" />](https://instagram.com/mikepixel.dev)
-[<img align="left" alt="mikepixel sur Codepen" width="40px" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" />](https://codepen.io/mikepixel)
+[<img align="left" alt="mikepixel.dev on Threads" width="40px" src="https://github.com/mikepixeldev/mikepixeldev/blob/main/img/threads-logo-black-01.png" />](https://www.threads.net/@mikepixel.dev)
+[<img align="left" alt="mikepixel.dev on Instagram" width="40px" src="https://github.com/mikepixeldev/mikepixeldev/blob/main/img/Instagram_Glyph_Gradient.png" />](https://instagram.com/mikepixel.dev)
+[<img align="left" alt="mikepixel on Codepen" width="40px" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" />](https://codepen.io/mikepixel)
 
 <br /><br />
 
-### Langues et Outils :
+### Languages and Tools:
 
 [<img align="left" alt="HTML5" width="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" />](https://www.w3.org/html/)
 [<img align="left" alt="CSS3" width="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" />](https://www.w3schools.com/css/)
@@ -37,6 +37,8 @@ _Retournant à mes premières passions en ingénierie informatique après avoir 
 [<img align="left" alt="MySQL" width="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" />](https://www.mysql.com/)
 [<img align="left" alt="Figma" width="40px" src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" />](https://www.figma.com/)
 [<img align="left" alt="Photoshop" width="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" />](https://www.photoshop.com/en)
-[<img align="left" alt="Illustrator" width="40px" src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" />](https://www.adobe.com/in/products/illustrator.html)
+[<img align="left" alt="Illustrator" width="40px" src="https://www.vectorlogo.zone/log
+
+os/adobe_illustrator/adobe_illustrator-icon.svg" />](https://www.adobe.com/in/products/illustrator.html)
 
 <br /><br />
