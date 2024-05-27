@@ -8,9 +8,9 @@ _Read this in other languages: [French](README.md)._
   <img src="https://media.giphy.com/media/2IudUHdI075HL02Pkk/giphy.gif" width="300"/>
 </div>
 
-_Returning to my early passions in computer engineering after exploring the world of social media management, I'm fully engaged and excited in my journey to become a front-end developer (and eventually back-end).
+_Returning to my early passions in computer engineering after exploring the world of social media management, I'm fully engaged and excited in my journey to become a front-end developer (and eventually back-end)._
 
-Currently in training, I'm eager to learn and code every day, and I'll be open to new opportunities in the development field by the end of the year._
+_Currently in training, I'm eager to learn and code every day, and I'll be open to new opportunities in the development field by the end of the year._
 
 - 🌍 **Location:** France 🇫🇷 (but dreams of coding on every continent!)
 - 🌱 **Skills:** HTML, CSS / Sass, Javascript
