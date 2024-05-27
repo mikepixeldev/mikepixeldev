@@ -1,4 +1,4 @@
-# Hello 👋, I'm Mikaël! But you can call me Mike.
+# Hello 👋, I'm Mikaël Posty! But you can call me Mike.
 
 ### An aspiring web and mobile developer, passionate about tech and the art of coding 🚀
 
@@ -11,7 +11,8 @@ _Read this in other languages: [French](README.md)._
 _Returning to my early passions in computer engineering after exploring the world of social media management, I'm fully engaged and excited in my journey to become a front-end developer (and eventually back-end). Currently in training, I'm eager to learn and code every day, and I'll be open to new opportunities in the development field by the end of the year._
 
 - 🌍 **Location:** France 🇫🇷 (but dreams of coding on every continent!)
-- 🌱 **Learning:** HTML, CSS / Sass, Javascript, React, Next.js, Node.JS, Swift
+- 🌱 **Skills:** HTML, CSS / Sass, Javascript
+- 📖 **Learning:** React, Next.js, Node.JS, Swift
 - 📝 **Blogger:** Explore my world on [Mike Pixel Dev](https://mikepixel.dev)
 - 💼 **Front-End Web Developer Portfolio:** [portfolio.mikepixel.dev](https://portfolio.mikepixel.dev)
 - 📫 **To contact me:** [hello@mikepixel.dev](mailto:hello@mikepixel.dev)

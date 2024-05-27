@@ -1,4 +1,4 @@
-# Bonjour 👋, je m'appelle Mikaël ! Mais tu peux m'appeler Mike.
+# Bonjour 👋, je m'appelle Mikaël Posty ! Mais tu peux m'appeler Mike.
 
 ### Un développeur web et mobile en devenir, passionné par la tech et l'art de coder 🚀
 
@@ -11,7 +11,8 @@ _Read this in other languages: [English](README.en.md)._
 _Retournant à mes premières passions en ingénierie informatique après avoir exploré le monde du social media management, je suis déjà pleinement engagé et enthousiaste dans mon parcours pour devenir développeur front-end (et éventuellement back-end). Actuellement en formation, je suis avide d'apprendre et de coder chaque jour, et je serai ouvert aux nouvelles opportunités dans le domaine du développement dès la fin de l'année._
 
 - 🌍 **Localisation :** France 🇫🇷 (mais rêve de coder sur chaque continent!)
-- 🌱 **J'apprends :** HTML, CSS / Sass, Javascript, React, Next.js, Node.JS, Swift
+- 🌱 **Compétences :** HTML, CSS / Sass, Javascript
+- 📖 **J'apprends :** React, Next.js, Node.JS, Swift
 - 📝 **Blogueur :** Découvrez mon univers sur [Mike Pixel Dev](https://mikepixel.dev)
 - 💼 **Portfolio Développeur Web Front-End :** [portfolio.mikepixel.dev](https://portfolio.mikepixel.dev)
 - 📫 **Pour me contacter :** [hello@mikepixel.dev](mailto:hello@mikepixel.dev)
@@ -37,7 +38,7 @@ _Retournant à mes premières passions en ingénierie informatique après avoir 
 [<img align="left" alt="Swift" width="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg" />](https://developer.apple.com/swift/)
 [<img align="left" alt="MySQL" width="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" />](https://www.mysql.com/)
 [<img align="left" alt="Figma" width="40px" src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" />](https://www.figma.com/)
-[<img align="left" alt="Photoshop" width="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" />](https://www.photoshop.com/en)
+[<img align="left" alt="Photoshop" width="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" />](https://www.photoshop.com)
 [<img align="left" alt="Illustrator" width="40px" src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" />](https://www.adobe.com/in/products/illustrator.html)
 
 <br /><br />
