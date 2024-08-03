@@ -13,8 +13,8 @@ _Retournant à mes premières passions en ingénierie informatique après avoir 
 _Actuellement en formation, je suis avide d'apprendre et de coder chaque jour, et je serai ouvert aux nouvelles opportunités dans le domaine du développement dès la fin de l'année._
 
 - 🌍 **Localisation :** France 🇫🇷 (mais rêve de coder sur chaque continent!)
-- 🌱 **Compétences :** HTML, CSS / Sass, Javascript
-- 📖 **J'apprends :** React, Next.js, Node.JS, Swift
+- 🌱 **Compétences :** HTML, CSS / Sass, Javascript, React
+- 📖 **J'apprends :** Typescript, Next.js, Node.JS, Swift
 - 📝 **Blogueur :** Découvrez mon univers sur [Mike Pixel Dev](https://mikepixel.dev)
 - 💼 **Portfolio Développeur Web Front-End :** [portfolio.mikepixel.dev](https://portfolio.mikepixel.dev)
 - 📫 **Pour me contacter :** [hello@mikepixel.dev](mailto:hello@mikepixel.dev)
@@ -35,7 +35,6 @@ _Actuellement en formation, je suis avide d'apprendre et de coder chaque jour, e
 [<img align="left" alt="Sass" width="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" />](https://sass-lang.com)
 [<img align="left" alt="JavaScript" width="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" />](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 [<img align="left" alt="React" width="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" />](https://react.dev/)
-[<img align="left" alt="React Native" width="40px" src="https://reactnative.dev/img/header_logo.svg" />](https://reactnative.dev/)
 [<img align="left" alt="Node.js" width="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" />](https://nodejs.org)
 [<img align="left" alt="Swift" width="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg" />](https://developer.apple.com/swift/)
 [<img align="left" alt="MySQL" width="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" />](https://www.mysql.com/)

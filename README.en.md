@@ -13,8 +13,8 @@ _Returning to my early passions in computer engineering after exploring the worl
 _Currently in training, I'm eager to learn and code every day, and I'll be open to new opportunities in the development field by the end of the year._
 
 - 🌍 **Location:** France 🇫🇷 (but dreams of coding on every continent!)
-- 🌱 **Skills:** HTML, CSS / Sass, Javascript
-- 📖 **Learning:** React, Next.js, Node.JS, Swift
+- 🌱 **Skills:** HTML, CSS / Sass, Javascript, React
+- 📖 **Learning:** Typescript, Next.js, Node.JS, Swift
 - 📝 **Blogger:** Explore my world on [Mike Pixel Dev](https://mikepixel.dev)
 - 💼 **Front-End Web Developer Portfolio:** [portfolio.mikepixel.dev](https://portfolio.mikepixel.dev)
 - 📫 **To contact me:** [hello@mikepixel.dev](mailto:hello@mikepixel.dev)
