@@ -12,6 +12,8 @@ _Retournant à mes premières passions en ingénierie informatique après avoir 
 
 _Actuellement en formation, je suis avide d'apprendre et de coder chaque jour, et je serai ouvert aux nouvelles opportunités dans le domaine du développement dès la fin de l'année 2025._
 
+### Quelques infos sur moi :
+
 - 🌍 **Localisation :** France 🇫🇷 (mais rêve de coder sur chaque continent!)
 - 🌱 **Compétences :** HTML, CSS / Sass, Javascript, React
 - 📖 **J'apprends :** Typescript, Next.js, Node.JS, Swift

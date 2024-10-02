@@ -12,6 +12,8 @@ _Returning to my early passions in computer engineering after exploring the worl
 
 _Currently in training, I'm eager to learn and code every day, and I'll be open to new opportunities in the development field by the end of the year 2025._
 
+### A little about me:
+
 - 🌍 **Location:** France 🇫🇷 (but dreams of coding on every continent!)
 - 🌱 **Skills:** HTML, CSS / Sass, Javascript, React
 - 📖 **Learning:** Typescript, Next.js, Node.JS, Swift
