@@ -10,7 +10,7 @@ _Read this in other languages: [English](README.en.md)._
 
 _Retournant à mes premières passions en ingénierie informatique après avoir exploré le monde du social media management, je suis déjà pleinement engagé et enthousiaste dans mon parcours pour devenir développeur front-end (et éventuellement back-end)._
 
-_Actuellement en formation, je suis avide d'apprendre et de coder chaque jour, et je serai ouvert aux nouvelles opportunités dans le domaine du développement dès la fin de l'année._
+_Actuellement en formation, je suis avide d'apprendre et de coder chaque jour, et je serai ouvert aux nouvelles opportunités dans le domaine du développement dès la fin de l'année 2025._
 
 - 🌍 **Localisation :** France 🇫🇷 (mais rêve de coder sur chaque continent!)
 - 🌱 **Compétences :** HTML, CSS / Sass, Javascript, React
@@ -19,6 +19,9 @@ _Actuellement en formation, je suis avide d'apprendre et de coder chaque jour, e
 - 💼 **Portfolio Développeur Web Front-End :** [portfolio.mikepixel.dev](https://portfolio.mikepixel.dev)
 - 📫 **Pour me contacter :** [hello@mikepixel.dev](mailto:hello@mikepixel.dev)
 - ⚡ **Fait amusant :** Geek dans l'âme, amoureux des comics, anime et voyages, toujours prêt pour une nouvelle aventure avec mon appareil photo !
+
+### Découvrez mes projets OpenClassRooms :
+Rendez-vous sur mon organisation [Mike Pixel - Projets OpenClassRooms](https://github.com/Mike-OpenClassRooms) pour voir mes projets créés dans le cadre de mes formations chez [OpenClassRooms](https://openclassrooms.com/fr/).
 
 ### Connectons-Nous :
 

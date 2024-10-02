@@ -10,7 +10,7 @@ _Read this in other languages: [French](README.md)._
 
 _Returning to my early passions in computer engineering after exploring the world of social media management, I'm fully engaged and excited in my journey to become a front-end developer (and eventually back-end)._
 
-_Currently in training, I'm eager to learn and code every day, and I'll be open to new opportunities in the development field by the end of the year._
+_Currently in training, I'm eager to learn and code every day, and I'll be open to new opportunities in the development field by the end of the year 2025._
 
 - 🌍 **Location:** France 🇫🇷 (but dreams of coding on every continent!)
 - 🌱 **Skills:** HTML, CSS / Sass, Javascript, React
@@ -19,6 +19,9 @@ _Currently in training, I'm eager to learn and code every day, and I'll be open 
 - 💼 **Front-End Web Developer Portfolio:** [portfolio.mikepixel.dev](https://portfolio.mikepixel.dev)
 - 📫 **To contact me:** [hello@mikepixel.dev](mailto:hello@mikepixel.dev)
 - ⚡ **Fun fact:** A geek at heart, lover of comics, anime, and travel, always ready for a new adventure with my camera!
+
+### Explore my OpenClassRooms projects:
+Check out my organization [Mike Pixel - Projets OpenClassRooms](https://github.com/Mike-OpenClassRooms) to see the projects I've created as part of my training with [OpenClassRooms](https://openclassrooms.com/en/).
 
 ### Let's Connect:
 
