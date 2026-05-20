@@ -45,20 +45,20 @@ Tous les projets ne sont pas publics, mais ceux qui le sont permettent de montre
 
 ### Je pratique
 
-<img src="./assets/technos/html5.svg" alt="HTML5" height="42" />&emsp;
-<img src="./assets/technos/css.svg" alt="CSS3" height="42" />&emsp;
-<img src="./assets/technos/sass.svg" alt="Sass" height="42" />&emsp;
-<img src="./assets/technos/javascript.svg" alt="JavaScript" height="42" />&emsp;
-<img src="./assets/technos/react.svg" alt="React" height="42" />&emsp;
-<img src="./assets/technos/wordpress.svg" alt="WordPress" height="42" />&emsp;
-<img src="./assets/technos/figma.svg" alt="Figma" height="42" />
+<a href="https://html.spec.whatwg.org/" target="_blank" rel="noopener noreferrer"><img src="./assets/technos/html5.svg" alt="HTML5" height="42" /></a>&emsp;
+<a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank" rel="noopener noreferrer"><img src="./assets/technos/css.svg" alt="CSS3" height="42" /></a>&emsp;
+<a href="https://sass-lang.com/" target="_blank" rel="noopener noreferrer"><img src="./assets/technos/sass.svg" alt="Sass" height="42" /></a>&emsp;
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noopener noreferrer"><img src="./assets/technos/javascript.svg" alt="JavaScript" height="42" /></a>&emsp;
+<a href="https://react.dev/" target="_blank" rel="noopener noreferrer"><img src="./assets/technos/react.svg" alt="React" height="42" /></a>&emsp;
+<a href="https://wordpress.org/" target="_blank" rel="noopener noreferrer"><img src="./assets/technos/wordpress.svg" alt="WordPress" height="42" /></a>&emsp;
+<a href="https://www.figma.com/" target="_blank" rel="noopener noreferrer"><img src="./assets/technos/figma.svg" alt="Figma" height="42" /></a>
 
 ### J'apprends / j'explore
 
-<img src="./assets/technos/typescript.svg" alt="TypeScript" height="42" />&emsp;
-<img src="./assets/technos/node-js.svg" alt="Node.js" height="42" />&emsp;
-<img src="./assets/technos/python.svg" alt="Python" height="42" />&emsp;
-<img src="./assets/technos/swift.svg" alt="Swift" height="42" />
+<a href="https://www.typescriptlang.org/" target="_blank" rel="noopener noreferrer"><img src="./assets/technos/typescript.svg" alt="TypeScript" height="42" /></a>&emsp;
+<a href="https://nodejs.org/en" target="_blank" rel="noopener noreferrer"><img src="./assets/technos/node-js.svg" alt="Node.js" height="42" /></a>&emsp;
+<a href="https://www.python.org/" target="_blank" rel="noopener noreferrer"><img src="./assets/technos/python.svg" alt="Python" height="42" /></a>&emsp;
+<a href="https://swift.org/" target="_blank" rel="noopener noreferrer"><img src="./assets/technos/swift.svg" alt="Swift" height="42" /></a>
 
 ## IA & assistance au travail
 
@@ -66,20 +66,20 @@ J'utilise les outils d'IA comme assistants de réflexion, de veille, de document
 
 Je préfère comprendre ce que je produis plutôt que déléguer aveuglément : l'IA m'aide à accélérer, comparer des approches et progresser, mais je garde la main sur les choix, la structure et la cohérence des projets.
 
-<img src="./assets/ai/chatgpt.svg" alt="ChatGPT" height="42" />&emsp;
-<img src="./assets/ai/claude.svg" alt="Claude" height="42" />&emsp;
-<img src="./assets/ai/gemini.svg" alt="Gemini" height="42" />&emsp;
-<img src="./assets/ai/perplexity.svg" alt="Perplexity" height="42" />&emsp;
-<img src="./assets/ai/lechat.svg" alt="Le Chat" height="42" />&emsp;
-<img src="./assets/ai/deepseek.svg" alt="DeepSeek" height="42" />&emsp;
-<img src="./assets/ai/manus.svg" alt="Manus" height="42" />
+<a href="https://chatgpt.com/" target="_blank" rel="noopener noreferrer"><img src="./assets/ai/chatgpt.svg" alt="ChatGPT" height="42" /></a>&emsp;
+<a href="https://claude.ai/" target="_blank" rel="noopener noreferrer"><img src="./assets/ai/claude.svg" alt="Claude" height="42" /></a>&emsp;
+<a href="https://gemini.google.com/" target="_blank" rel="noopener noreferrer"><img src="./assets/ai/gemini.svg" alt="Gemini" height="42" /></a>&emsp;
+<a href="https://www.perplexity.ai/" target="_blank" rel="noopener noreferrer"><img src="./assets/ai/perplexity.svg" alt="Perplexity" height="42" /></a>&emsp;
+<a href="https://chat.mistral.ai/" target="_blank" rel="noopener noreferrer"><img src="./assets/ai/lechat.svg" alt="Le Chat" height="42" /></a>&emsp;
+<a href="https://www.deepseek.com/en/" target="_blank" rel="noopener noreferrer"><img src="./assets/ai/deepseek.svg" alt="DeepSeek" height="42" /></a>&emsp;
+<a href="https://manus.im/" target="_blank" rel="noopener noreferrer"><img src="./assets/ai/manus.svg" alt="Manus" height="42" /></a>
 
 ## Connectons-nous
 
-<a href="https://www.linkedin.com/in/mikaelposty"><img src="./assets/social/linkedin.svg" alt="LinkedIn" height="42" /></a>&emsp;
-<a href="https://www.instagram.com/mikaelposty/"><img src="./assets/social/instagram.svg" alt="Instagram" height="42" /></a>&emsp;
-<a href="https://www.threads.com/@mikaelposty"><img src="./assets/social/threads.svg" alt="Threads" height="42" /></a>&emsp;
-<a href="https://substack.com/@mikaelposty"><img src="./assets/social/substack.svg" alt="Substack" height="42" /></a>
+<a href="https://www.linkedin.com/in/mikaelposty" target="_blank" rel="noopener noreferrer"><img src="./assets/social/linkedin.svg" alt="LinkedIn" height="42" /></a>&emsp;
+<a href="https://www.instagram.com/mikaelposty/" target="_blank" rel="noopener noreferrer"><img src="./assets/social/instagram.svg" alt="Instagram" height="42" /></a>&emsp;
+<a href="https://www.threads.com/@mikaelposty" target="_blank" rel="noopener noreferrer"><img src="./assets/social/threads.svg" alt="Threads" height="42" /></a>&emsp;
+<a href="https://substack.com/@mikaelposty" target="_blank" rel="noopener noreferrer"><img src="./assets/social/substack.svg" alt="Substack" height="42" /></a>
 
 ---
 
