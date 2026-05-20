@@ -1,51 +1,86 @@
 # Hello 👋, I'm Mikaël Posty! But you can call me Mike.
 
-### An aspiring web and mobile developer, passionate about tech and the art of coding 🚀
-
-_Read this in other languages: [French](README.md)._
+## A digital communication & social media profile, with a strong web culture and a genuine passion for code 🚀
 
 <div align="center">
   <img src="https://media.giphy.com/media/2IudUHdI075HL02Pkk/giphy.gif" width="300"/>
 </div>
 
-_Returning to my early passions in computer engineering after exploring the world of social media management, I'm fully engaged and excited in my journey to become a front-end developer (and eventually back-end)._
+Curious by nature, I've always enjoyed understanding how things work, especially the web. I started with WordPress before moving into code: first with HTML/CSS basics, then going further with JavaScript and React.
 
-_Currently in training, I'm eager to learn and code every day, and I'll be open to new opportunities in the development field by the end of the year 2025._
+Since I care about both technical quality and visual quality, I'm also interested in web design, UX/UI, responsive design, accessibility and SEO.
 
-### A little about me:
+At the same time, I've been working in digital communication and social media for several years. I'm now continuing my path in communication & digital marketing at ISCOM Paris, with the goal of going further and strengthening my skills.
 
-- 🌍 **Location:** France 🇫🇷 (but dreams of coding on every continent!)
-- 🌱 **Skills:** HTML, CSS / Sass, Javascript, React
-- 📖 **Learning:** Typescript, Next.js, Node.JS, Swift
-- 📝 **Blogger:** Explore my world on [Mike Pixel Dev](https://mikepixel.dev)
-- 💼 **Front-End Web Developer Portfolio:** [portfolio.mikepixel.dev](https://portfolio.mikepixel.dev)
-- 📫 **To contact me:** [hello@mikepixel.dev](mailto:hello@mikepixel.dev)
-- ⚡ **Fun fact:** A geek at heart, lover of comics, anime, and travel, always ready for a new adventure with my camera!
+This GitHub is here to document my learning journey, personal projects and training work, with the aim of improving over time and better understanding the web, both from a content perspective and from a code perspective.
 
-### Explore my OpenClassRooms projects:
-Check out my organization [Mike Pixel - Projets OpenClassRooms](https://github.com/Mike-OpenClassRooms) to see the projects I've created as part of my training with [OpenClassRooms](https://openclassrooms.com/en/).
+## A few things about me
 
-### Let's Connect:
+- 🌍 **Location:** France 🇫🇷
+- 💬 **Core background:** digital communication, social media, content and web projects
+- 🌱 **Web skills:** HTML, CSS/Sass, JavaScript, React, WordPress, SEO
+- 🎨 **Design culture:** UX/UI, web design, responsive design, accessibility
+- 📖 **Currently learning / exploring:** TypeScript, Node.js, Python, Swift, Ghost and AI use cases in projects
+- 📝 **Personal website:** [mikaelposty.fr](https://mikaelposty.fr)
+- 📫 **Contact:** [hello@mikepixel.dev](mailto:hello@mikepixel.dev)
+- ⚡ **Fun fact:** geek at heart, urban photographer, comics, anime and travel enthusiast, always ready to explore a new topic or open a CSS file "just to check".
 
-[<img align="left" alt="mikepixel.dev on Threads" width="40px" src="https://github.com/mikepixeldev/mikepixeldev/blob/main/img/threads-logo-black-01.png" />](https://www.threads.net/@mikepixel.dev)
-[<img align="left" alt="mikepixel.dev on Instagram" width="40px" src="https://github.com/mikepixeldev/mikepixeldev/blob/main/img/Instagram_Glyph_Gradient.png" />](https://instagram.com/mikepixel.dev)
-[<img align="left" alt="mikepixel on Codepen" width="40px" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" />](https://codepen.io/mikepixel)
+## What you'll find here
 
-<br /><br />
+- Projects created during my OpenClassrooms training
+- HTML/CSS experiments, responsive design, accessibility and SEO
+- WordPress projects, web content and personal prototypes
+- Tests around JavaScript, React and front-end integration
+- A project-oriented approach with documentation, commit conventions, branches and clean README files
 
-### Languages and Tools:
+## Discover my OpenClassrooms projects
 
-[<img align="left" alt="HTML5" width="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" />](https://www.w3.org/html/)
-[<img align="left" alt="CSS3" width="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" />](https://www.w3schools.com/css/)
-[<img align="left" alt="Sass" width="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" />](https://sass-lang.com)
-[<img align="left" alt="JavaScript" width="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" />](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
-[<img align="left" alt="React" width="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" />](https://react.dev/)
-[<img align="left" alt="React Native" width="40px" src="https://reactnative.dev/img/header_logo.svg" />](https://reactnative.dev/)
-[<img align="left" alt="Node.js" width="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" />](https://nodejs.org)
-[<img align="left" alt="Swift" width="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg" />](https://developer.apple.com/swift/)
-[<img align="left" alt="MySQL" width="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" />](https://www.mysql.com/)
-[<img align="left" alt="Figma" width="40px" src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" />](https://www.figma.com/)
-[<img align="left" alt="Photoshop" width="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" />](https://www.photoshop.com/en)
-[<img align="left" alt="Illustrator" width="40px" src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" />](https://www.adobe.com/in/products/illustrator.html)
+I have completed several projects as part of my OpenClassrooms training, especially in web integration, JavaScript, React, WordPress and digital project management.
 
-<br /><br />
+Not all projects are public, but the ones that are available show my technical progress, the way I structure projects and the attention I pay to documentation.
+
+👉 [View my OpenClassrooms organization](https://github.com/Mike-OpenClassRooms)
+
+## Languages, technologies & tools
+
+### I practice
+
+<img src="./assets/technos/html5.svg" alt="HTML5" height="42" />&nbsp;
+<img src="./assets/technos/css.svg" alt="CSS3" height="42" />&nbsp;
+<img src="./assets/technos/sass.svg" alt="Sass" height="42" />&nbsp;
+<img src="./assets/technos/javascript.svg" alt="JavaScript" height="42" />&nbsp;
+<img src="./assets/technos/react.svg" alt="React" height="42" />&nbsp;
+<img src="./assets/technos/wordpress.svg" alt="WordPress" height="42" />&nbsp;
+<img src="./assets/technos/figma.svg" alt="Figma" height="42" />
+
+### I'm learning / exploring
+
+<img src="./assets/technos/typescript.svg" alt="TypeScript" height="42" />&nbsp;
+<img src="./assets/technos/node-js.svg" alt="Node.js" height="42" />&nbsp;
+<img src="./assets/technos/python.svg" alt="Python" height="42" />&nbsp;
+<img src="./assets/technos/swift.svg" alt="Swift" height="42" />
+
+## AI & work assistance
+
+I use AI tools as assistants for thinking, research, documentation, proofreading and sometimes pair programming.
+
+I prefer understanding what I create rather than blindly delegating everything: AI helps me move faster, compare approaches and improve, but I keep control over the choices, structure and consistency of my projects.
+
+<img src="./assets/ai/chatgpt.svg" alt="ChatGPT" height="42" />&nbsp;
+<img src="./assets/ai/claude.svg" alt="Claude" height="42" />&nbsp;
+<img src="./assets/ai/gemini.svg" alt="Gemini" height="42" />&nbsp;
+<img src="./assets/ai/perplexity.svg" alt="Perplexity" height="42" />&nbsp;
+<img src="./assets/ai/lechat.svg" alt="Le Chat" height="42" />&nbsp;
+<img src="./assets/ai/deepseek.svg" alt="DeepSeek" height="42" />&nbsp;
+<img src="./assets/ai/manus.svg" alt="Manus" height="42" />
+
+## Let's connect
+
+<a href="https://www.linkedin.com/in/mikaelposty"><img src="./assets/social/linkedin.svg" alt="LinkedIn" height="42" /></a>&nbsp;
+<a href="https://www.instagram.com/mikaelposty/"><img src="./assets/social/instagram.svg" alt="Instagram" height="42" /></a>&nbsp;
+<a href="https://www.threads.com/@mikaelposty"><img src="./assets/social/threads.svg" alt="Threads" height="42" /></a>&nbsp;
+<a href="https://substack.com/@mikaelposty"><img src="./assets/social/substack.svg" alt="Substack" height="42" /></a>
+
+---
+
+🇫🇷 [Version française](./README.md)

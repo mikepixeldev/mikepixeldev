@@ -1,50 +1,86 @@
 # Bonjour 👋, je m'appelle Mikaël Posty ! Mais tu peux m'appeler Mike.
 
-### Un développeur web et mobile en devenir, passionné par la tech et l'art de coder 🚀
-
-_Read this in other languages: [English](README.en.md)._
+## Un profil communication digitale & social media, avec une vraie culture web et une passion assumée pour le code 🚀
 
 <div align="center">
   <img src="https://media.giphy.com/media/2IudUHdI075HL02Pkk/giphy.gif" width="300"/>
 </div>
 
-_Retournant à mes premières passions en ingénierie informatique après avoir exploré le monde du social media management, je suis déjà pleinement engagé et enthousiaste dans mon parcours pour devenir développeur front-end (et éventuellement back-end)._
+Curieux de tout, j'ai toujours aimé comprendre comment fonctionnent les choses, notamment le web. J'ai commencé avec WordPress, avant de passer au code : d'abord avec les bases en HTML/CSS, puis en allant plus loin avec JavaScript et React.
 
-_Actuellement en formation, je suis avide d'apprendre et de coder chaque jour, et je serai ouvert aux nouvelles opportunités dans le domaine du développement dès la fin de l'année 2025._
+Comme j'aime autant la qualité technique que la qualité esthétique, je m'intéresse aussi au webdesign, à l'UX/UI, au responsive design, à l'accessibilité et au SEO.
 
-### Quelques infos sur moi :
+En parallèle, je travaille depuis plusieurs années dans la communication digitale et le social media. Aujourd'hui, je poursuis mon parcours en communication & marketing digital à l'ISCOM Paris, avec l'objectif d'aller encore plus loin et de renforcer mes compétences.
 
-- 🌍 **Localisation :** France 🇫🇷 (mais rêve de coder sur chaque continent!)
-- 🌱 **Compétences :** HTML, CSS / Sass, Javascript, React
-- 📖 **J'apprends :** Typescript, Next.js, Node.JS, Swift
-- 📝 **Blogueur :** Découvrez mon univers sur [Mike Pixel Dev](https://mikepixel.dev)
-- 💼 **Portfolio Développeur Web Front-End :** [portfolio.mikepixel.dev](https://portfolio.mikepixel.dev)
+Ce GitHub est là pour documenter mes apprentissages, mes projets personnels et les formations que j'ai suivies, avec l'envie de progresser au fil du temps et de mieux comprendre le web, autant côté contenu que côté code.
+
+## Quelques infos sur moi
+
+- 🌍 **Localisation :** France 🇫🇷
+- 💬 **Cœur de métier :** communication digitale, social media, contenu et projets web
+- 🌱 **Compétences web :** HTML, CSS/Sass, JavaScript, React, WordPress, SEO
+- 🎨 **Culture design :** UX/UI, webdesign, responsive design, accessibilité
+- 📖 **J'apprends / j'explore :** TypeScript, Node.js, Python, Swift, Ghost et les usages de l'IA dans les projets
+- 📝 **Site personnel :** [mikaelposty.fr](https://mikaelposty.fr)
 - 📫 **Pour me contacter :** [hello@mikepixel.dev](mailto:hello@mikepixel.dev)
-- ⚡ **Fait amusant :** Geek dans l'âme, amoureux des comics, anime et voyages, toujours prêt pour une nouvelle aventure avec mon appareil photo !
+- ⚡ **Fait amusant :** geek dans l'âme, photographe urbain, amateur de comics, d'anime et de voyages, toujours prêt à explorer un nouveau sujet ou à ouvrir un fichier CSS "juste pour voir".
 
-### Découvrez mes projets OpenClassRooms :
-Rendez-vous sur mon organisation [Mike Pixel - Projets OpenClassRooms](https://github.com/Mike-OpenClassRooms) pour voir mes projets créés dans le cadre de mes formations chez [OpenClassRooms](https://openclassrooms.com/fr/).
+## Ce que vous trouverez ici
 
-### Connectons-Nous :
+- Des projets réalisés dans le cadre de mes formations OpenClassrooms
+- Des expérimentations HTML/CSS, responsive design, accessibilité et SEO
+- Des projets WordPress, contenus web et prototypes personnels
+- Des tests autour de JavaScript, React et de l'intégration front-end
+- Une approche projet avec documentation, conventions de commits, branches et README propres
 
-[<img align="left" alt="mikepixel.dev sur Threads" width="40px" src="https://github.com/mikepixeldev/mikepixeldev/blob/main/img/threads-logo-black-01.png" />](https://www.threads.net/@mikepixel.dev)
-[<img align="left" alt="mikepixel.dev sur Instagram" width="40px" src="https://github.com/mikepixeldev/mikepixeldev/blob/main/img/Instagram_Glyph_Gradient.png" />](https://instagram.com/mikepixel.dev)
-[<img align="left" alt="mikepixel sur Codepen" width="40px" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" />](https://codepen.io/mikepixel)
+## Découvrez mes projets OpenClassrooms
 
-<br /><br />
+J'ai réalisé plusieurs projets dans le cadre de mes formations OpenClassrooms, notamment en intégration web, JavaScript, React, WordPress et gestion de projet digital.
 
-### Langues et Outils :
+Tous les projets ne sont pas publics, mais ceux qui le sont permettent de montrer ma progression technique, ma façon de structurer un projet et mon attention portée à la documentation.
 
-[<img align="left" alt="HTML5" width="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" />](https://www.w3.org/html/)
-[<img align="left" alt="CSS3" width="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" />](https://www.w3schools.com/css/)
-[<img align="left" alt="Sass" width="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" />](https://sass-lang.com)
-[<img align="left" alt="JavaScript" width="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" />](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
-[<img align="left" alt="React" width="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" />](https://react.dev/)
-[<img align="left" alt="Node.js" width="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" />](https://nodejs.org)
-[<img align="left" alt="Swift" width="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg" />](https://developer.apple.com/swift/)
-[<img align="left" alt="MySQL" width="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" />](https://www.mysql.com/)
-[<img align="left" alt="Figma" width="40px" src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" />](https://www.figma.com/)
-[<img align="left" alt="Photoshop" width="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" />](https://www.photoshop.com)
-[<img align="left" alt="Illustrator" width="40px" src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" />](https://www.adobe.com/in/products/illustrator.html)
+👉 [Voir mon organisation OpenClassrooms](https://github.com/Mike-OpenClassRooms)
 
-<br /><br />
+## Langages, technos & outils
+
+### Je pratique
+
+<img src="./assets/technos/html5.svg" alt="HTML5" height="42" />&nbsp;
+<img src="./assets/technos/css.svg" alt="CSS3" height="42" />&nbsp;
+<img src="./assets/technos/sass.svg" alt="Sass" height="42" />&nbsp;
+<img src="./assets/technos/javascript.svg" alt="JavaScript" height="42" />&nbsp;
+<img src="./assets/technos/react.svg" alt="React" height="42" />&nbsp;
+<img src="./assets/technos/wordpress.svg" alt="WordPress" height="42" />&nbsp;
+<img src="./assets/technos/figma.svg" alt="Figma" height="42" />
+
+### J'apprends / j'explore
+
+<img src="./assets/technos/typescript.svg" alt="TypeScript" height="42" />&nbsp;
+<img src="./assets/technos/node-js.svg" alt="Node.js" height="42" />&nbsp;
+<img src="./assets/technos/python.svg" alt="Python" height="42" />&nbsp;
+<img src="./assets/technos/swift.svg" alt="Swift" height="42" />
+
+## IA & assistance au travail
+
+J'utilise les outils d'IA comme assistants de réflexion, de veille, de documentation, de correction et parfois de pair programming.
+
+Je préfère comprendre ce que je produis plutôt que déléguer aveuglément : l'IA m'aide à accélérer, comparer des approches et progresser, mais je garde la main sur les choix, la structure et la cohérence des projets.
+
+<img src="./assets/ai/chatgpt.svg" alt="ChatGPT" height="42" />&nbsp;
+<img src="./assets/ai/claude.svg" alt="Claude" height="42" />&nbsp;
+<img src="./assets/ai/gemini.svg" alt="Gemini" height="42" />&nbsp;
+<img src="./assets/ai/perplexity.svg" alt="Perplexity" height="42" />&nbsp;
+<img src="./assets/ai/lechat.svg" alt="Le Chat" height="42" />&nbsp;
+<img src="./assets/ai/deepseek.svg" alt="DeepSeek" height="42" />&nbsp;
+<img src="./assets/ai/manus.svg" alt="Manus" height="42" />
+
+## Connectons-nous
+
+<a href="https://www.linkedin.com/in/mikaelposty"><img src="./assets/social/linkedin.svg" alt="LinkedIn" height="42" /></a>&nbsp;
+<a href="https://www.instagram.com/mikaelposty/"><img src="./assets/social/instagram.svg" alt="Instagram" height="42" /></a>&nbsp;
+<a href="https://www.threads.com/@mikaelposty"><img src="./assets/social/threads.svg" alt="Threads" height="42" /></a>&nbsp;
+<a href="https://substack.com/@mikaelposty"><img src="./assets/social/substack.svg" alt="Substack" height="42" /></a>
+
+---
+
+🇬🇧 [English version](./README.en.md)
