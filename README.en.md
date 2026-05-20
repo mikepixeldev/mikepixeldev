@@ -45,19 +45,19 @@ Not all projects are public, but the ones that are available show my technical p
 
 ### I practice
 
-<img src="./assets/technos/html5.svg" alt="HTML5" height="42" />&nbsp;
-<img src="./assets/technos/css.svg" alt="CSS3" height="42" />&nbsp;
-<img src="./assets/technos/sass.svg" alt="Sass" height="42" />&nbsp;
-<img src="./assets/technos/javascript.svg" alt="JavaScript" height="42" />&nbsp;
-<img src="./assets/technos/react.svg" alt="React" height="42" />&nbsp;
-<img src="./assets/technos/wordpress.svg" alt="WordPress" height="42" />&nbsp;
+<img src="./assets/technos/html5.svg" alt="HTML5" height="42" />&emsp;
+<img src="./assets/technos/css.svg" alt="CSS3" height="42" />&emsp;
+<img src="./assets/technos/sass.svg" alt="Sass" height="42" />&emsp;
+<img src="./assets/technos/javascript.svg" alt="JavaScript" height="42" />&emsp;
+<img src="./assets/technos/react.svg" alt="React" height="42" />&emsp;
+<img src="./assets/technos/wordpress.svg" alt="WordPress" height="42" />&emsp;
 <img src="./assets/technos/figma.svg" alt="Figma" height="42" />
 
 ### I'm learning / exploring
 
-<img src="./assets/technos/typescript.svg" alt="TypeScript" height="42" />&nbsp;
-<img src="./assets/technos/node-js.svg" alt="Node.js" height="42" />&nbsp;
-<img src="./assets/technos/python.svg" alt="Python" height="42" />&nbsp;
+<img src="./assets/technos/typescript.svg" alt="TypeScript" height="42" />&emsp;
+<img src="./assets/technos/node-js.svg" alt="Node.js" height="42" />&emsp;
+<img src="./assets/technos/python.svg" alt="Python" height="42" />&emsp;
 <img src="./assets/technos/swift.svg" alt="Swift" height="42" />
 
 ## AI & work assistance
@@ -66,19 +66,19 @@ I use AI tools as assistants for thinking, research, documentation, proofreading
 
 I prefer understanding what I create rather than blindly delegating everything: AI helps me move faster, compare approaches and improve, but I keep control over the choices, structure and consistency of my projects.
 
-<img src="./assets/ai/chatgpt.svg" alt="ChatGPT" height="42" />&nbsp;
-<img src="./assets/ai/claude.svg" alt="Claude" height="42" />&nbsp;
-<img src="./assets/ai/gemini.svg" alt="Gemini" height="42" />&nbsp;
-<img src="./assets/ai/perplexity.svg" alt="Perplexity" height="42" />&nbsp;
-<img src="./assets/ai/lechat.svg" alt="Le Chat" height="42" />&nbsp;
-<img src="./assets/ai/deepseek.svg" alt="DeepSeek" height="42" />&nbsp;
+<img src="./assets/ai/chatgpt.svg" alt="ChatGPT" height="42" />&emsp;
+<img src="./assets/ai/claude.svg" alt="Claude" height="42" />&emsp;
+<img src="./assets/ai/gemini.svg" alt="Gemini" height="42" />&emsp;
+<img src="./assets/ai/perplexity.svg" alt="Perplexity" height="42" />&emsp;
+<img src="./assets/ai/lechat.svg" alt="Le Chat" height="42" />&emsp;
+<img src="./assets/ai/deepseek.svg" alt="DeepSeek" height="42" />&emsp;
 <img src="./assets/ai/manus.svg" alt="Manus" height="42" />
 
 ## Let's connect
 
-<a href="https://www.linkedin.com/in/mikaelposty"><img src="./assets/social/linkedin.svg" alt="LinkedIn" height="42" /></a>&nbsp;
-<a href="https://www.instagram.com/mikaelposty/"><img src="./assets/social/instagram.svg" alt="Instagram" height="42" /></a>&nbsp;
-<a href="https://www.threads.com/@mikaelposty"><img src="./assets/social/threads.svg" alt="Threads" height="42" /></a>&nbsp;
+<a href="https://www.linkedin.com/in/mikaelposty"><img src="./assets/social/linkedin.svg" alt="LinkedIn" height="42" /></a>&emsp;
+<a href="https://www.instagram.com/mikaelposty/"><img src="./assets/social/instagram.svg" alt="Instagram" height="42" /></a>&emsp;
+<a href="https://www.threads.com/@mikaelposty"><img src="./assets/social/threads.svg" alt="Threads" height="42" /></a>&emsp;
 <a href="https://substack.com/@mikaelposty"><img src="./assets/social/substack.svg" alt="Substack" height="42" /></a>
 
 ---
