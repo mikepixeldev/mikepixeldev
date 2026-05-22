@@ -23,7 +23,7 @@ Ce GitHub est là pour documenter mes apprentissages, mes projets personnels et 
 - 📖 **J'apprends / j'explore :** TypeScript, Node.js, Python, Swift, Ghost et les usages de l'IA dans les projets
 - 📝 **Site personnel :** [mikaelposty.fr](https://mikaelposty.fr)
 - 📫 **Pour me contacter :** [hello@mikepixel.dev](mailto:hello@mikepixel.dev)
-- ⚡ **Fait amusant :** geek dans l'âme, photographe urbain, amateur de comics, d'animés et de voyages, toujours prêt à explorer un nouveau sujet ou à ouvrir un fichier CSS "juste pour voir".
+- ⚡ **Fun fact :** geek dans l'âme, photographe urbain, amateur de comics, d'animés et de voyages, toujours prêt à explorer un nouveau sujet ou à ouvrir un fichier CSS "juste pour voir".
 
 ## Ce que vous trouverez ici
 
