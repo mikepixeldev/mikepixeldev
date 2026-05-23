@@ -1,4 +1,4 @@
-# Bonjour 👋, je m'appelle Mikaël Posty ! Mais tu peux m'appeler Mike.
+# Bonjour 👋, je m'appelle Mikaël ! Mais tu peux m'appeler Mike.
 
 ## Un profil communication digitale & social media, avec une vraie culture web et une passion assumée pour le code 🚀
 
